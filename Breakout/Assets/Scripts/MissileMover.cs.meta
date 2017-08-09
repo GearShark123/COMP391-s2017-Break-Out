@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0cbece4263d07954eb51e635cffac325
+timeCreated: 1499860523
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - theMissilePicture: {fileID: 1366988169937394, guid: 3f6beb85026079e43bb88320c9365970,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
